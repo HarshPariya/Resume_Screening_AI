@@ -253,11 +253,6 @@ Aspiring AI/ML Engineer passionate about:
 - Deep Learning
 - Full-Stack AI Applications
 
-### Connect With Me
-
-- GitHub: https://github.com/HarshPariya
-- Portfolio: https://folioharshdev.vercel.app/
-- LinkedIn: Add Your LinkedIn URL Here
 
 ---
 
